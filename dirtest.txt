@@ -3,3 +3,8 @@
 fufus与balen区别?
 
 重命名
+
+
+git fetch
+git merge
+git pull
